@@ -46,9 +46,9 @@ React.jsのバージョンはv18からサポートされる予定の機能で、
 <div>
 
 <p class="mb-5">■コンポーネントツリーのイメージ図</p>
-<a href="pages/images/react-server-components.png" target="_blank">
+<a href="/pages/images/react-server-components.png" target="_blank">
 <img
-    src="pages/images/react-server-components.png" alt=""
+    src="/pages/images/react-server-components.png" alt=""
     class="w-1/3 mx-auto"
 />
 </a>
@@ -93,9 +93,9 @@ React.jsのバージョンはv18からサポートされる予定の機能で、
 
 <div class="mt-5">
 
-<a href="pages/images/rsc.png" target="_blank">
+<a href="/pages/images/rsc.png" target="_blank">
 <img
-    src="pages/images/rsc.png" alt=""
+    src="/pages/images/rsc.png" alt=""
     class="w-1/2 mx-auto"
 />
 </a>
