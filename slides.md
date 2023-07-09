@@ -221,3 +221,12 @@ class: text-center
   - サーバー側で実行されるか、クライアント側で実行されるか、両方からじっこうされるか、といったことを意識してコンポーネントを設計する必要がある。
     - それぞれのコンポーネントの制約を理解して、適切に使い分ける必要がある。
   - 今までのコンポーネント設計の思想を捨てて、RSCの思想に沿ったコンポーネント設計を行う必要がある。
+
+---
+
+参考
+
+- [https://postd.cc/how-react-server-components-work/](https://postd.cc/how-react-server-components-work/)
+- [https://zenn.dev/uhyo/articles/react-server-components-multi-stage](https://zenn.dev/uhyo/articles/react-server-components-multi-stage)
+- [https://zenn.dev/g4rds/articles/287c53498d17a1](https://zenn.dev/g4rds/articles/287c53498d17a1)
+- [https://dev-k.hatenablog.com/entry/how-react-server-components-work-and-why-they-are-important-deve-k](https://dev-k.hatenablog.com/entry/how-react-server-components-work-and-why-they-are-important-deve-k)
